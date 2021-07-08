@@ -82,37 +82,43 @@
                     <!-- start contact-form head -->
                     <div class="col-12 col-xl-5 col-md-6 margin-eight-bottom md-margin-40px-bottom sm-margin-30px-bottom text-center">
                         <div class="text-small text-medium-gray alt-font text-uppercase margin-5px-bottom">Start Your New Project</div>
-                        <h5 class="alt-font text-white-2 font-weight-600 mb-0">Fill out the form & we'll be in touch soon!</h5>
+                        <h5 class="alt-font text-white-2 font-weight-600 mb-0" id="result">Fill out the form & we'll be in touch soon!</h5>
                     </div>
                     <!-- end contact-form head -->
                 </div>
                 <!-- start contact-form -->
-                <form id="project-contact-form" action="javascript:void(0)" method="post">
+                <form id="project-contact-form" action="https://docs.google.com/forms/d/16OKZxd6e4qLz3OjDC5GjqekRMM3XbP9M8ulIh3HXXMQ/formResponse?" target="hidden_iframe" target="hidden_iframe" onsubmit="submitted=true;">
                     <div class="row">
                         <div class="col-12">
                             <div id="success-project-contact-form" class="mx-0"></div>
                         </div>
                         <div class="col-12 col-lg-6">
-                            <input type="text" name="name" id="name" placeholder="Name *" class="bg-transparent border-color-medium-dark-gray medium-input" style="color:white;">
+                            <input type="text" name="entry.1857712276" id="entry.1857712276" placeholder="Name *" class="bg-transparent border-color-medium-dark-gray medium-input" style="color:white;">
                         </div>
                         <div class="col-12 col-lg-6">
-                            <input type="text" name="phone" id="phone" placeholder="Phone" class="bg-transparent border-color-medium-dark-gray medium-input" style="color:white;" >
+                            <input type="text" name="entry.1606645339" id="entry.1606645339" placeholder="Phone" class="bg-transparent border-color-medium-dark-gray medium-input" style="color:white;" >
                         </div>
                         <div class="col-12 col-lg-6">
-                            <input type="text" name="email" id="email" placeholder="E-mail *" class="bg-transparent border-color-medium-dark-gray medium-input" style="color:white;">
+                            <input type="text" name="entry.1778474555" id="entry.1778474555" placeholder="E-mail *" class="bg-transparent border-color-medium-dark-gray medium-input" style="color:white;">
                         </div>
                     
                         <div class="col-12">
-                            <textarea name="comment" id="comment" placeholder="Describe your project" rows="6" class="bg-transparent border-color-medium-dark-gray medium-textarea" style="color:white;"></textarea>
+                            <textarea name="entry.187870866" id="entry.187870866" placeholder="Describe your project" rows="6" class="bg-transparent border-color-medium-dark-gray medium-textarea" style="color:white;"></textarea>
                         </div>
                         <div class="col-12 text-center">
-                            <button id="project-contact-us-button" type="submit" class="btn btn-deep-pink btn-rounded btn-large margin-20px-top sm-no-margin-top">send message</button>
+                            <button id="project-contact-us-button2" type="submit" value="Submit" class="btn btn-deep-pink btn-rounded btn-large margin-20px-top sm-no-margin-top">send message</button>
                         </div>
                     </div>
                 </form>
+
+                <script type="text/javascript">var submitted=false;</script>
+
+                <iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" onload="if(submitted) {}"></iframe>
+
                 <!-- end contact-form -->
             </div>
         </section>
+
         <!-- end form section -->
         <!-- start section -->
         <section class="pb-0 wow fadeIn" id="section-down">
@@ -191,5 +197,13 @@
         <script type="text/javascript" src="revolution/js/extensions/revolution.extension.video.min.js"></script>-->
         <!-- setting -->
         <script type="text/javascript" src="js/main.js"></script>
+        <script>
+        $('#project-contact-form').on('submit', function(e) {
+  $('#project-contact-form *').fadeOut(2000);
+  $('#project-contact-form').prepend('Your submission has been processed...');
+    $('#result').text("We'll be in touch soon!");
+
+  });
+</script>
     </body>
 </html>
