@@ -2,7 +2,7 @@
   "applinks": {
       "details": [
            {
-             "appIDs": [ "5365LH58PP.art.entify.NFTGlimpse"],
+             "appIDs": [ "5365LH58PP.art.entify.PhygitalDrop"],
              "components": [
                {
                   "#": "no_universal_links",
@@ -28,10 +28,10 @@
        ]
    },
    "webcredentials": {
-      "apps": [ "5365LH58PP.art.entify.NFTGlimpse" ]
+      "apps": [ "5365LH58PP.art.entify.PhygitalDrop" ]
    },
 
     "appclips": {
-        "apps": ["5365LH58PP.art.entify.NFTGlimpse.Clip"]
+        "apps": ["5365LH58PP.art.entify.PhygitalDrop.Clip"]
     }
 }
