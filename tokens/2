@@ -1,0 +1,33 @@
+{
+  "name": "Johnny Silverhand",
+  "description": "The man with a plan from the northern lands of Skruh.",
+  "image": "https://suborbitalmedia.com/images/demo_thumb.png",
+  "attributes": [
+ 	{
+      "trait_type": "Hands", 
+      "value": "Bionic Arm (Left)"
+    },
+    {
+      "trait_type": "Accesory", 
+      "value": "Dog Tag"
+    },
+     {
+      "trait_type": "Spark", 
+      "value": 35
+    },
+    {
+      "display_type": "number", 
+      "trait_type": "Generation", 
+      "value": 2
+    },
+    {
+      "trait_type": "Location", 
+      "value": "Gotham"
+    },
+    {
+      "trait_type": "Jacket", 
+      "value": "Bulletproof Vest"
+    }
+
+  ]
+}
