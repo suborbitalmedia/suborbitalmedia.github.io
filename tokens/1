@@ -1,6 +1,33 @@
 {
-  "name": "Herbie Starbelly",
-  "description": "Friendly OpenSea Creature that enjoys long swims in the ocean.",
-  "image": "https://storage.googleapis.com/opensea-prod.appspot.com/creature/50.png",
-  "attributes": []
+  "name": "Alina Solari",
+  "description": "The first Spark to have walked the land of Thereum.",
+  "image": "https://suborbitalmedia.com/images/demo_thumb.png",
+  "attributes": [
+ 	{
+      "trait_type": "Hands", 
+      "value": "Cybernetic"
+    },
+    {
+      "trait_type": "Accesory", 
+      "value": "Cybernetic Visor"
+    },
+     {
+      "trait_type": "Spark", 
+      "value": 80
+    },
+    {
+      "display_type": "number", 
+      "trait_type": "Generation", 
+      "value": 1
+    },
+    {
+      "trait_type": "Location", 
+      "value": "The Bunker"
+    },
+    {
+      "trait_type": "Jacket", 
+      "value": "Fur Cut"
+    },
+
+  ]
 }
