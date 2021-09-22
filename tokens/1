@@ -1,7 +1,9 @@
 {
   "name": "Alina Solari",
-  "description": "The first Spark to have walked the land of Thereum.",
-  "image": "https://suborbitalmedia.com/images/demo_thumb.png",
+  "description": "The first Spark to have walked the land of Thereum. She is the heir of the baron of Moria, destined for great things.",
+  "collection": "Spark the Revolution (Season 1)"
+  "image": "https://suborbitalmedia.com/images/demo.png",
+  "model": "https://suborbitalmedia.com/images/demo.usdz",
   "attributes": [
  	{
       "trait_type": "Hands", 
