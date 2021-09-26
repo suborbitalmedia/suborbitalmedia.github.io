@@ -1,7 +1,9 @@
 {
   "name": "Johnny Silverhand",
-  "description": "The man with a plan from the northern lands of Skruh.",
+  "description": "The man with a plan from the northern lands of Skruh. He is the Chosen One, and has briefly escaped the Matrix to take revenge for John Wick's dog.",
+  "collection": "Spark the Revolution (Season 1)",
   "image": "https://suborbitalmedia.com/images/js.jpg",
+  "model": "https://suborbitalmedia.com/images/demo.usdz",
   "attributes": [
  	{
       "trait_type": "Hands", 
@@ -19,10 +21,6 @@
       "display_type": "number", 
       "trait_type": "Generation", 
       "value": 2
-    },
-    {
-      "trait_type": "Location", 
-      "value": "Gotham"
     },
     {
       "trait_type": "Jacket", 
