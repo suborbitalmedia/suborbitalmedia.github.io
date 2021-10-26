@@ -1,0 +1,31 @@
+{
+  "name": "Sparktacus",
+  "description": "The man with a plan from the northern lands of Skruh. He is the Chosen One, is on a mission to bring the Fyat down and liberate his people.",
+  "collection": "Spark the Revolution (Season 1)",
+  "image": "https://suborbitalmedia.com/images/art.png",
+  "model": "https://suborbitalmedia.com/images/spx1.usdz",
+  "attributes": [
+ 	{
+      "trait_type": "Hands", 
+      "value": "Bionic Arm (Left)"
+    },
+    {
+      "trait_type": "Hat", 
+      "value": "Ronin"
+    },
+     {
+      "trait_type": "Spark", 
+      "value": 35
+    },
+    {
+      "display_type": "number", 
+      "trait_type": "Generation", 
+      "value": 1
+    },
+    {
+      "trait_type": "Jacket", 
+      "value": "Hoodie"
+    }
+
+  ]
+}
