@@ -4,6 +4,7 @@
   "collection": "Spark the Revolution (Season 1)",
   "image": "https://suborbitalmedia.com/images/demo.png",
   "model": "https://suborbitalmedia.com/images/demo.usdz",
+  "animation_url": "https://fyatlux-viewer.web.app/",
   "attributes": [
  	{
       "trait_type": "Hands", 
