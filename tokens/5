@@ -1,0 +1,70 @@
+{
+    "name": "Spark #0003",
+    "image": "ipfs://QmdRiYoNHD9HegkdFHDpnNHGaBegKPSqSJ8NHGMVAM27ng/3.jpg",
+    "model": "ipfs://QmdRiYoNHD9HegkdFHDpnNHGaBegKPSqSJ8NHGMVAM27ng/3.glb",
+    "pfp": "ipfs://QmdRiYoNHD9HegkdFHDpnNHGaBegKPSqSJ8NHGMVAM27ng/3_pfp.jpg",
+    "tpose": "ipfs://QmdRiYoNHD9HegkdFHDpnNHGaBegKPSqSJ8NHGMVAM27ng/3_tpose.glb",
+    "external_url": "www.fyatlux.com/viewer/3",
+    "attributes": [
+        {
+            "trait_type": "Palette",
+            "value": "Cold Blue"
+        },
+        {
+            "trait_type": "Build",
+            "value": "Art3mis"
+        },
+        {
+            "trait_type": "Clan",
+            "value": "Network Disruptor"
+        },
+        {
+            "trait_type": "Pose",
+            "value": "The Right Way"
+        },
+        {
+            "trait_type": "Mask",
+            "value": "Gas Mask"
+        },
+        {
+            "trait_type": "Cans",
+            "value": "Puppy Eduardo Hair"
+        },
+        {
+            "trait_type": "Front Floatie",
+            "value": "None"
+        },
+        {
+            "trait_type": "Side Floatie",
+            "value": "None"
+        },
+        {
+            "trait_type": "Collar",
+            "value": "Popped"
+        },
+        {
+            "trait_type": "Backpack",
+            "value": "Puppy Bag"
+        },
+        {
+            "trait_type": "Accesory",
+            "value": "Double Fisting"
+        },
+        {
+            "trait_type": "Uniform",
+            "value": "Death"
+        },
+        {
+            "trait_type": "Graffiti Art (Body)",
+            "value": "None"
+        },
+        {
+            "trait_type": "Graffiti Art (Background)",
+            "value": "None"
+        },
+        {
+            "trait_type": "Faction",
+            "value": "Fyat"
+        }
+    ]
+}
