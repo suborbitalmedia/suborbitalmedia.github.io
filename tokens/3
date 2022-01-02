@@ -1,31 +1,70 @@
 {
-  "name": "Sparktacus",
-  "description": "The man with a plan from the northern lands of Skruh. He is the Chosen One, is on a mission to bring the Fyat down and liberate his people.",
-  "collection": "Spark the Revolution (Season 1)",
-  "image": "https://suborbitalmedia.com/images/art.png",
-  "model": "https://suborbitalmedia.com/images/spx1.usdz",
-  "attributes": [
- 	{
-      "trait_type": "Hands", 
-      "value": "Bionic Arm (Left)"
-    },
-    {
-      "trait_type": "Hat", 
-      "value": "Ronin"
-    },
-     {
-      "trait_type": "Spark", 
-      "value": 35
-    },
-    {
-      "display_type": "number", 
-      "trait_type": "Generation", 
-      "value": 1
-    },
-    {
-      "trait_type": "Jacket", 
-      "value": "Hoodie"
-    }
-
-  ]
+    "name": "Spark #0003",
+    "image": "ipfs://QmdRiYoNHD9HegkdFHDpnNHGaBegKPSqSJ8NHGMVAM27ng/3.jpg",
+    "model": "ipfs://QmdRiYoNHD9HegkdFHDpnNHGaBegKPSqSJ8NHGMVAM27ng/3.glb",
+    "pfp": "ipfs://QmdRiYoNHD9HegkdFHDpnNHGaBegKPSqSJ8NHGMVAM27ng/3_pfp.jpg",
+    "tpose": "ipfs://QmdRiYoNHD9HegkdFHDpnNHGaBegKPSqSJ8NHGMVAM27ng/3_tpose.glb",
+    "external_url": "www.fyatlux.com/viewer/3",
+    "attributes": [
+        {
+            "trait_type": "Palette",
+            "value": "Cold Blue"
+        },
+        {
+            "trait_type": "Build",
+            "value": "Art3mis"
+        },
+        {
+            "trait_type": "Clan",
+            "value": "Network Disruptor"
+        },
+        {
+            "trait_type": "Pose",
+            "value": "The Right Way"
+        },
+        {
+            "trait_type": "Mask",
+            "value": "Gas Mask"
+        },
+        {
+            "trait_type": "Cans",
+            "value": "Puppy Eduardo Hair"
+        },
+        {
+            "trait_type": "Front Floatie",
+            "value": "None"
+        },
+        {
+            "trait_type": "Side Floatie",
+            "value": "None"
+        },
+        {
+            "trait_type": "Collar",
+            "value": "Popped"
+        },
+        {
+            "trait_type": "Backpack",
+            "value": "Puppy Bag"
+        },
+        {
+            "trait_type": "Accesory",
+            "value": "Double Fisting"
+        },
+        {
+            "trait_type": "Uniform",
+            "value": "Death"
+        },
+        {
+            "trait_type": "Graffiti Art (Body)",
+            "value": "None"
+        },
+        {
+            "trait_type": "Graffiti Art (Background)",
+            "value": "None"
+        },
+        {
+            "trait_type": "Faction",
+            "value": "Fyat"
+        }
+    ]
 }
