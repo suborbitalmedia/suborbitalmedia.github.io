@@ -1,36 +1,71 @@
 {
-  "name": "Spark #0020",
-  "description": "The first Spark to have walked the land of Thereum. She is the heir of the baron of Moria, destined for great things. During her last confrontation with the Baron she had to sacrifice her arms, and now sports a sparkly set of shiny robot arms.",
-  "collection": "Spark the Revolution (Season 1)",
-  "image": "https://suborbitalmedia.com/images/demo.png",
-  "model": "https://suborbitalmedia.com/images/FLUX06.glb",
-  "animation_url": "https://fyatlux-viewer.web.app/",
-  "attributes": [
- 	{
-      "trait_type": "Hands", 
-      "value": "Cybernetic"
-    },
-    {
-      "trait_type": "Accesory", 
-      "value": "Cybernetic Visor"
-    },
-     {
-      "trait_type": "Spark", 
-      "value": 80
-    },
-    {
-      "display_type": "number", 
-      "trait_type": "Generation", 
-      "value": 1
-    },
-    {
-      "trait_type": "Location", 
-      "value": "The Bunker"
-    },
-    {
-      "trait_type": "Jacket", 
-      "value": "Fur Cut"
-    }
-
-  ]
+    "name": "Spark #0001",
+    "image": "ipfs://QmQFB4ABoYQxXkg52p17okxEpjgGRMdcEJNdCiSvTGSKw3/1.jpg",
+    "model": "ipfs://QmQFB4ABoYQxXkg52p17okxEpjgGRMdcEJNdCiSvTGSKw3/1.glb",
+    "pfp": "ipfs://QmQFB4ABoYQxXkg52p17okxEpjgGRMdcEJNdCiSvTGSKw3/1_pfp.jpg",
+    "tpose": "ipfs://QmQFB4ABoYQxXkg52p17okxEpjgGRMdcEJNdCiSvTGSKw3/1_tpose.glb",
+    "animation_url": "https://fyatlux-viewer.web.app?tokenID=1",
+    "external_url": "https://fyatlux-viewer.web.app?tokenID=1",
+    "attributes": [
+        {
+            "trait_type": "Palette",
+            "value": "Violet Storm"
+        },
+        {
+            "trait_type": "Build",
+            "value": "Taph"
+        },
+        {
+            "trait_type": "Clan",
+            "value": "Network Disruptor"
+        },
+        {
+            "trait_type": "Pose",
+            "value": "Left is the Way"
+        },
+        {
+            "trait_type": "Mask",
+            "value": "20/20 Vision"
+        },
+        {
+            "trait_type": "Cans",
+            "value": "Bunny"
+        },
+        {
+            "trait_type": "Front Floatie",
+            "value": "Devilish Horns"
+        },
+        {
+            "trait_type": "Side Floatie",
+            "value": "Speakers"
+        },
+        {
+            "trait_type": "Collar",
+            "value": "Captain"
+        },
+        {
+            "trait_type": "Backpack",
+            "value": "Skater Boi"
+        },
+        {
+            "trait_type": "Accesory",
+            "value": "Beacon"
+        },
+        {
+            "trait_type": "Uniform",
+            "value": "Militant"
+        },
+        {
+            "trait_type": "Graffiti Art (Body)",
+            "value": "None"
+        },
+        {
+            "trait_type": "Graffiti Art (Background)",
+            "value": "None"
+        },
+        {
+            "trait_type": "Faction",
+            "value": "Lux"
+        }
+    ]
 }

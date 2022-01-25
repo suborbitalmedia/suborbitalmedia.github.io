@@ -1,31 +1,71 @@
 {
-  "name": "Johnny Silverhand",
-  "description": "The man with a plan from the northern lands of Skruh. He is the Chosen One, and has briefly escaped the Matrix to take revenge for John Wick's dog.",
-  "collection": "Spark the Revolution (Season 1)",
-  "image": "https://suborbitalmedia.com/images/js.jpg",
-  "model": "https://suborbitalmedia.com/images/demo.usdz",
-  "attributes": [
- 	{
-      "trait_type": "Hands", 
-      "value": "Bionic Arm (Left)"
-    },
-    {
-      "trait_type": "Accesory", 
-      "value": "Dog Tag"
-    },
-     {
-      "trait_type": "Spark", 
-      "value": 35
-    },
-    {
-      "display_type": "number", 
-      "trait_type": "Generation", 
-      "value": 2
-    },
-    {
-      "trait_type": "Jacket", 
-      "value": "Bulletproof Vest"
-    }
-
-  ]
+    "name": "Spark #0002",
+    "image": "ipfs://Qme98u26twufL9G5aJHG9icbFUfCXoX9Cf2cUdofZES1AF/24.jpg",
+    "model": "ipfs://Qme98u26twufL9G5aJHG9icbFUfCXoX9Cf2cUdofZES1AF/24.glb",
+    "pfp": "ipfs://Qme98u26twufL9G5aJHG9icbFUfCXoX9Cf2cUdofZES1AF/24_pfp.jpg",
+    "tpose": "ipfs://Qme98u26twufL9G5aJHG9icbFUfCXoX9Cf2cUdofZES1AF/24_tpose.glb",
+    "animation_url": "https://fyatlux-viewer.web.app/?tokenID=2",
+    "external_url": "https://fyatlux-viewer.web.app/?tokenID=2",
+    "attributes": [
+        {
+            "trait_type": "Palette",
+            "value": "Bananas"
+        },
+        {
+            "trait_type": "Build",
+            "value": "Kay"
+        },
+        {
+            "trait_type": "Clan",
+            "value": "Network Disruptor"
+        },
+        {
+            "trait_type": "Pose",
+            "value": "The Right Way"
+        },
+        {
+            "trait_type": "Mask",
+            "value": "Gas Mask"
+        },
+        {
+            "trait_type": "Cans",
+            "value": "Cannister"
+        },
+        {
+            "trait_type": "Front Floatie",
+            "value": "Horns"
+        },
+        {
+            "trait_type": "Side Floatie",
+            "value": "Militant Hawk"
+        },
+        {
+            "trait_type": "Collar",
+            "value": "None"
+        },
+        {
+            "trait_type": "Backpack",
+            "value": "None"
+        },
+        {
+            "trait_type": "Accesory",
+            "value": "CD Player"
+        },
+        {
+            "trait_type": "Uniform",
+            "value": "Pleb"
+        },
+        {
+            "trait_type": "Graffiti Art (Body)",
+            "value": "None"
+        },
+        {
+            "trait_type": "Graffiti Art (Background)",
+            "value": "None"
+        },
+        {
+            "trait_type": "Faction",
+            "value": "Fyat"
+        }
+    ]
 }

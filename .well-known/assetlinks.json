@@ -1,0 +1,5 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target" : { "namespace": "android_app", "package_name": "com.hymnofnight.collectionviewer",
+               "sha256_cert_fingerprints": ["72:88:12:6A:A1:E4:F3:05:09:4D:05:13:9F:D2:90:9D:64:41:5A:30:C7:5B:FF:36:A0:F8:06:22:8E:BF:00:2B"] }
+}]

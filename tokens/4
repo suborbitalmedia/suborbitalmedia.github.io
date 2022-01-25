@@ -1,62 +1,67 @@
 {
-    "name": "Spark #0003",
-    "image": "ipfs://QmdRiYoNHD9HegkdFHDpnNHGaBegKPSqSJ8NHGMVAM27ng/3.jpg",
-    "model": "ipfs://QmdRiYoNHD9HegkdFHDpnNHGaBegKPSqSJ8NHGMVAM27ng/3.glb",
-    "pfp": "ipfs://QmdRiYoNHD9HegkdFHDpnNHGaBegKPSqSJ8NHGMVAM27ng/3_pfp.jpg",
-    "tpose": "ipfs://QmdRiYoNHD9HegkdFHDpnNHGaBegKPSqSJ8NHGMVAM27ng/3_tpose.glb",
-    "external_url": "www.fyatlux.com/viewer/3",
+    "name": "Spark #0004",
+    "image": "ipfs://QmW3VTmkH5qXJQ2G4dyozgj9G8LeCnF5T91kwY1PmniPox/882.jpg",
+    "model": "ipfs://QmW3VTmkH5qXJQ2G4dyozgj9G8LeCnF5T91kwY1PmniPox/882.glb",
+    "pfp": "ipfs://QmW3VTmkH5qXJQ2G4dyozgj9G8LeCnF5T91kwY1PmniPox/882_pfp.jpg",
+    "tpose": "ipfs://QmW3VTmkH5qXJQ2G4dyozgj9G8LeCnF5T91kwY1PmniPox/882_tpose.glb",
+    "animation_url": "https://fyatlux-viewer.web.app/?tokenID=4",
+    "external_url": "https://fyatlux-viewer.web.app/?tokenID=4",
     "attributes": [
         {
             "trait_type": "Palette",
-            "value": "Cold Blue"
+            "value": "Green Velvet"
         },
         {
             "trait_type": "Build",
-            "value": "Art3mis"
+            "value": "Kay"
         },
         {
             "trait_type": "Clan",
-            "value": "Network Disruptor"
+            "value": "Relic Hunter"
         },
         {
             "trait_type": "Pose",
-            "value": "The Right Way"
+            "value": "Left is the Way"
         },
         {
             "trait_type": "Mask",
-            "value": "Gas Mask"
+            "value": "Rat"
         },
         {
             "trait_type": "Cans",
-            "value": "Puppy Eduardo Hair"
+            "value": "Goofy"
         },
         {
             "trait_type": "Front Floatie",
-            "value": "None"
+            "value": "Little Demon"
         },
         {
             "trait_type": "Side Floatie",
-            "value": "None"
+            "value": "Sparta"
         },
         {
             "trait_type": "Collar",
-            "value": "Popped"
+            "value": "Hard Nails"
         },
         {
             "trait_type": "Backpack",
-            "value": "Puppy Bag"
+            "value": "Speakers"
         },
         {
             "trait_type": "Accesory",
-            "value": "Double Fisting"
+            "value": "Dual Beacon"
         },
         {
             "trait_type": "Uniform",
             "value": "Death"
         },
         {
+            "trait_type": "Body Tag",
+            "value": "Left Shoulder"
+        },
+        {
             "trait_type": "Graffiti Art (Body)",
-            "value": "None"
+            "value": "Splatter"
         },
         {
             "trait_type": "Graffiti Art (Background)",

@@ -4,7 +4,8 @@
     "model": "ipfs://QmdRiYoNHD9HegkdFHDpnNHGaBegKPSqSJ8NHGMVAM27ng/3.glb",
     "pfp": "ipfs://QmdRiYoNHD9HegkdFHDpnNHGaBegKPSqSJ8NHGMVAM27ng/3_pfp.jpg",
     "tpose": "ipfs://QmdRiYoNHD9HegkdFHDpnNHGaBegKPSqSJ8NHGMVAM27ng/3_tpose.glb",
-    "external_url": "www.fyatlux.com/viewer/3",
+    "external_url": "https://fyatlux-viewer.web.app/?tokenID=3",
+    "animation_url": "https://fyatlux-viewer.web.app/?tokenID=3",
     "attributes": [
         {
             "trait_type": "Palette",
